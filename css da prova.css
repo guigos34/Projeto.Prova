@@ -25,6 +25,7 @@ a{
     border-radius: 10px;
     font-size: 17px;
     margin-right: 40px;
+    
 }
 .cad:hover{
     background-color: #F7855C ;
@@ -35,7 +36,62 @@ a{
 .descri{
     display: flex;
     flex-direction: row;
+    position: absolute;
+    right: 50px;
+    align-items: center;
 }
-nav{
+.zindex{
+    position: relative;
+    z-index: 10;
+    margin-top: -127 !important;
+}
+.desconto{
+    position: relative;
+    top: 240px;
+    right: 460px;
+    background-color: #f7845c;
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.desconto:hover{
+    background-color: #035f79;
+    transition: 0.3s all;
     
+}
+.filtrar{
+    background-color:#545454;
+    width: px;
+    height: px;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.filtrar:hover{
+    background-color: #f7845c;
+    transition: 0.3s all;
+}
+.ordenar{
+    border:2px solid #f7845c;
+    padding: 15px;
+    background-color: #f4f4f4;
+    border-radius:10px ;
+    color: #f7845c;
+}
+.ordenar:hover{
+    background-color: #035f79;
+    transition: 0.3s all;
+}
+.compartilhar{
+    padding: 15px;
+    background-color: #f7845c;
+    color: white;
+    border-radius: 10px;
+}
+.compartilhar:hover{
+    background-color: #035f79;
+    transition: 0.3s all;
 }
