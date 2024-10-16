@@ -20,18 +20,18 @@ a{
 
 }
 .cad{
-    border: 2px solid black ;
+    border: 1px solid black ;
     padding: 20px;
     border-radius: 10px;
     font-size: 17px;
     margin-right: 40px;
-    
+    background-color: #f7845c;
+    color: white;
+    transition-duration:1s;
+    transform-origin: 2% 2%
 }
 .cad:hover{
-    background-color: #F7855C ;
-    color: white;
-    transition: 0.2s;
-
+    transform:scale(0.9);
 }
 .descri{
     display: flex;
@@ -94,4 +94,14 @@ a{
 .compartilhar:hover{
     background-color: #035f79;
     transition: 0.3s all;
+}
+section{
+    position: relative;
+    margin-top: 180px;
+}
+.coluna1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
