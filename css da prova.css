@@ -104,4 +104,20 @@ section{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    
+}
+.cs1{
+    background-color: white;
+    padding-bottom: 45px;
+    border-radius: 10px;
+}
+.cs1:hover{
+    background-color: #e4ecf2;
+}
+.cs2{
+    background-color: white;
+    padding-bottom: 45px;
+    border-radius: 10px;
+    position: relative;
+    margin-bottom: 255px;
 }
