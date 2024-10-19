@@ -100,9 +100,9 @@ section{
     position: relative;
     margin-top: 180px;
 }
-article{
-    display: flex;
-    flex-direction: column;
+figure{
+    position: relative;
+    top: 15px;
 }
 .coluna1{
     display: flex;
@@ -116,3 +116,16 @@ article{
     justify-content: space-between;
     align-items: center;
 }
+form{
+    position: relative;
+    top: 150px;
+}
+select{
+    background-color: #f7845c;
+    border-radius: 15px;
+    padding: 10px;
+}
+.casas{
+    background-color: #e4ecf2;
+}
+
