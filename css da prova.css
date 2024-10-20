@@ -133,11 +133,27 @@ select{
     color: #f7845c;
     background-color: #f4f4f4;
 }
- .backgroudroda{
+footer{
+    margin-top: 100px;
+}
+.vermais{
+    margin-top: 70px;
+    background-color: #f7845c;
+    padding: 1px;
+    border-radius: 10px;
+    margin-left: 580px;
+    margin-right: 580px ;
+}
+.vermais:hover{
+    background-color: #035f79;
+    transition: 0.5s all;
+}
+.backgroudroda{
     background-color: #545454;
     height: 700px;
- 
- }
+    border-radius: 10px;
+    padding: 15px;
+}
  .rodape2{
     color: #f5f2f2;
     background-color: #545454;
@@ -149,7 +165,8 @@ select{
     width: 1000px;
     height: 500px;
     margin: 0 auto;
-    border-radius: 20px 0px 20px 0px;
+    border-radius: 10px;
+    padding: 15px;
  }
 
  .primeiro{
