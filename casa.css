@@ -223,3 +223,38 @@ footer{
   padding: 2px;
   border-radius: 10px;
 }
+.divcompra{
+    height: 600;
+    width: 1200;
+    background-color: #214e91;
+    position: relative;
+    margin: 0 auto;
+}
+.compra{
+    position: relative;
+    top: 200px;
+    left: 380px;
+    text-align: center center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: white;
+}
+.linha2 {
+    width: 100%;
+    border-bottom: 1px solid #000000;
+    position: relative;
+    color: rgb(136, 135, 135);
+    top: 201px;
+    left: 405px;
+    margin: 0;
+    width: 380px;
+  }
+  .home{
+    position: relative;
+    top: 225px;
+    left: 450px;
+    text-align: center center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(196, 196, 196);
+  }
