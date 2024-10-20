@@ -184,3 +184,10 @@ a{
         font-size: small;
         color: rgb(99, 99, 99);
 }
+.div1casa2e3{
+    height: 500px;
+    width: 600px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+}
