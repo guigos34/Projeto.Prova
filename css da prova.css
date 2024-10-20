@@ -129,3 +129,39 @@ select{
     background-color: #e4ecf2;
 }
 
+.rodapeh1{
+    color: #f7845c;
+    background-color: #f4f4f4;
+}
+ .backgroudroda{
+    background-color: #545454;
+    height: 700px;
+ 
+ }
+ .rodape2{
+    color: #f5f2f2;
+    background-color: #545454;
+    margin: 30px;
+ }
+
+ .tabelabranca{
+    background-color: #f4f4f4;
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 20px 0px 20px 0px;
+ }
+
+ .primeiro{
+    margin: 10px;
+
+ }
+ .segundo{
+    margin: 10px;
+ }
+ .terceiro{
+    margin: 10px;
+ }
+ .quarto{
+    margin: 10px;
+ }
